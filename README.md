@@ -63,7 +63,7 @@ Web ile eş zamanlı çalışan sistemde veliler, öğretmen ve yöneticiler ile
 
 ![Mesajlasma Ekrani](/images/Resim15.png)
 
-## Projenin web platformu da mevcuttur. Örnek görseller aşağıdaki gibidir:
+* Projenin web platformu da mevcuttur. Örnek görseller aşağıdaki gibidir:
 
 ![Ana Sayfa](/images/Resim16.png)
 ![Etkinlik](/images/Resim17.png)
