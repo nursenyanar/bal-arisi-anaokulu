@@ -4,7 +4,7 @@
 
 ## Uygulama Giriş Ekranı
 Mobil uygulama giriş ekranı görseldeki gibidir. Kullanıcı adı ve şifresini girdiğinde sağda bulunan görsel şekliyle uygulamaya giriş yapılır.
-[](/images/Resim1.png)
+![](/images/Resim1.png)
    
 
 
