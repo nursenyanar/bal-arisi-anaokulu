@@ -10,7 +10,7 @@ Mobil uygulama giriş ekranı görseldeki gibidir. Kullanıcı adı ve şifresin
 
 
 *	Kullanıcı adı veya şifre bilgisi yanlış girildiğinde ekrana “Kullanıcı bilgileri hatalı” şeklinde bildiri gelmektedir.
-*	
+
 ![Giris Ekrani 2](/images/Resim2.png)
 
  
