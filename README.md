@@ -2,7 +2,7 @@
 
 # Image
 
-##Uygulama Giriş Ekranı
+## Uygulama Giriş Ekranı
 Mobil uygulama giriş ekranı görseldeki gibidir. Kullanıcı adı ve şifresini girdiğinde sağda bulunan görsel şekliyle uygulamaya giriş yapılır.
    
 
