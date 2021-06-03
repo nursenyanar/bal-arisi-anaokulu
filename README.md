@@ -13,7 +13,8 @@ Mobil uygulama giriş ekranı görseldeki gibidir. Kullanıcı adı ve şifresin
 
  
 ##	Kaydol
-Giriş ekranında kaydol butonuna basıldığında bu ekran açılır. Aynı zamanda kullanıcı adı ve şifre istenilen ekranda “Hesap edin” butonuna basıldığında da bu sayfaya yönlendirilir. Uygulama sadece veli kullanımına açık olduğu için bu şekilde bilgilendirme bölümü gelir. Bu alanda iletişim bilgileri ve sosyal medya ikonları da mevcuttur. İlgili alanlara tıklanma halinde gerekli sayfalara erişim sağlanmaktadır. 
+Giriş ekranında kaydol butonuna basıldığında bu ekran açılır. Aynı zamanda kullanıcı adı ve şifre istenilen ekranda “Hesap edin” butonuna basıldığında da bu sayfaya yönlendirilir. Uygulama sadece veli kullanımına açık olduğu için bu şekilde bilgilendirme bölümü gelir. Bu alanda iletişim bilgileri ve sosyal medya ikonları da mevcuttur. İlgili alanlara tıklanma halinde gerekli sayfalara erişim sağlanmaktadır.
+
 ![İletisim Bilgi Ekrani](/images/Resim3.png)
 ![Sosyal Medya](/images/Resim4.png)
 ![İletisim](/images/Resim5.png)
