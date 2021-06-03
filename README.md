@@ -1,4 +1,4 @@
-# bal-arisi-anaokulu
+# Bal Arısı Anaokulu
 
 # Image
 
