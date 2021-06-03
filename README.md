@@ -66,9 +66,11 @@ Web ile eş zamanlı çalışan sistemde veliler, öğretmen ve yöneticiler ile
 * Projenin web platformu da mevcuttur. Örnek görseller aşağıdaki gibidir:
 
 [Ana Sayfa için](https://www.balarısı.com)
+
 ![Ana Sayfa](/images/Resim16.png)
 
 [Etkinlik sayfası için](https://www.balarısı.com/etkinlikler)
+
 ![Etkinlik](/images/Resim17.png)
 
 
